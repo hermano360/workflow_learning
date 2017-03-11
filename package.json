@@ -1,0 +1,7 @@
+{
+  "name": "workflows",
+  "version": "1.0.0",
+  "description": "This project is to show workflows",
+  "main": "index.js",
+  "author": "Herminio Garcia"
+}
