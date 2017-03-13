@@ -2,10 +2,14 @@
   "name": "workflows",
   "version": "1.0.0",
   "description": "This project is to show workflows",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hermano360/workflow_learning.git"
+  },
   "author": "Herminio Garcia",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.4",
     "gulp-util": "^3.0.8"
   }
 }
